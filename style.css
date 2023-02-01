@@ -1,0 +1,30 @@
+
+.carousel-height{
+    height: 600px;
+}
+.img-height{
+    height: 600px;
+}
+.navbar-wrapper{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 20;
+}
+.content_text{
+    font-size: medium;
+}
+.row .col h3{
+    color: #343A40;
+}
+.color_text{
+    color: #343A40;
+}
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+.shadow_footer{
+box-shadow: -5px -5px 5px #888;
+}
